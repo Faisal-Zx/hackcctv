@@ -27,12 +27,12 @@ def german():
     print("{}        ____ ").format(r)
     print("   _[]_/____\__n_ ")
     print("  |_____.--.__()_|")
-    print("  |I   //# \\\    |")
-    print("{}  |P   \\\__//    | ").format(w)
-    print("  |CS   '--'     | ")
+    print("  |TAM //# \\\ TAM|")
+    print("{}  |FA  \\\__//  FA| ").format(w)
+    print("  |NX   '--'   NX| ")
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
-    print("{}  | {}Author  : {}HVmbl3 {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
-    print("{}  | {}Youtube : {}Shodiq 2701 {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
+    print("{}  | {}Author  : {}MrTamfanX {}   | {}INDO{}N{}{}ESIA     | ").format(r,w,r,w,r,ir,reset,w)
+    print("{}  | {}Youtube : {}MrUncle.     {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print("{}       [ {}List page : {} {}]").format(r,w,rfindpage,r)
     run()
@@ -51,4 +51,4 @@ def run():
              count += 1
     except:
         print ""
-        print r+"Makasi udh pake tools kami"+w
+        print r+"Terimakasih Buat Lu Semua Ngentod..."+w
