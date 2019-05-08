@@ -1,4 +1,4 @@
-#Jangan ganti author , hargai creator cape loh buat nya
+#2019 Saya Nikah Lagi , Jangan Buat Hack Cctv Bokep
 
 import LIST
 from LIST.id import *
@@ -29,12 +29,12 @@ def main():
     print("{}        ____ ").format(r)
     print("   _[]_/____\__n_ ")
     print("  |_____.--.__()_|")
-    print("  |I   //# \\\    |")
-    print("{}  |P   \\\__//    | ").format(w)
-    print("  |CS   '--'     | ")
+    print("  |TAM //# \\\    |")
+    print("{}  |FA  \\\__//    | ").format(w)
+    print("  |NX   '--'     | ")
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
-    print("{}  | {}Author  : {}HVmbl3 {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
-    print("{}  | {}Youtube : {}Shodiq 2701 {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
+    print("{}  | {}Author  : {}MrTamfanX {}  | {}INDO{}N{}{}ESIA     | ").format(r,w,r,w,r,ir,reset,w)
+    print("{}  | {}Youtube : {}MrUncle   {}  | {}+62-857-7951-5200 {}|").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print ("  {}[ 1 ] {}Italy").format(r,w)
     print ("  {}[ 2 ] {}Indonesia").format(r,w)
