@@ -32,7 +32,7 @@ def german():
     print("  |NX   '--'   NX| ")
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
     print("{}  | {}Author  : {}MrTamfanX {}   | {}INDO{}N{}{}ESIA     | ").format(r,w,r,w,r,ir,reset,w)
-    print("{}  | {}Youtube : {}MrUncle.     {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
+    print("{}  | {}Youtube : {}MrUncle.     {}| {}+62-857-7951-5200 {}|").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print("{}       [ {}List page : {} {}]").format(r,w,rfindpage,r)
     run()
