@@ -1,2 +1,2 @@
-# ipcs
-IPCam-Scanner Versi 2
+# Jangan Buat Yang Engga Engga Ya Sayang :*
+Barangnya Bagus Ya Hmm Enak :*
